@@ -68,7 +68,7 @@ The assembly contains two custom plates, two M5 adjustment fastener sets, four M
 
 - [Assembly drawing and BOM](SolidWorks/Motor_Mount_Assembly_Drawing.pdf)
 - [Base plate drawing](SolidWorks/Base_Plate_Drawing.pdf)
-- [Motor plate drawing](SolidWorks/Motor_Plate_Drawing.pdf)
+- [Motor plate drawing](SolidWorks/Motor_Plate_Drawing.PDF)
 
 ## Motor Representation Note
 
