@@ -12,7 +12,7 @@ Create a simple mount that holds the project motor representation securely, prov
 
 ## Portfolio Images
 
-![Assembled adjustable motor mount]Images/Motor_Mount_Assembly.JPG
+![Assembled adjustable motor mount](Images/Motor_Mount_Assembly.JPG)
 
 *Assembled motor mount.*
 
