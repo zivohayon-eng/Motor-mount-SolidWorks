@@ -73,3 +73,10 @@ The assembly contains two custom plates, two M5 adjustment fastener sets, four M
 ## Motor Representation Note
 
 The 40 x 40 mm motor body is a simplified NEMA 17-style CAD representation, not a verified commercial NEMA 17 envelope. The model retains the 31 x 31 mm M3 mounting pattern, but final fit with a specific commercial motor requires verification against its datasheet and a physical fit check.
+
+## Project Documents
+
+- [Final Report](Documentation/Motor_Mount_Final_Report.pdf)
+- [Project Requirements](Requirements/Project%20Requirements.pdf)
+- [Engineering Calculations](Calculations/Motor%20Mount%20Calculations.pdf)
+- [BOM - Excel](BOM/Motor_Mount_BOM.xlsx)
