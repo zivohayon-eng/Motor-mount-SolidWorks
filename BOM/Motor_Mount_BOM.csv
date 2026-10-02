@@ -1,0 +1,8 @@
+Item No.,Part Name,Description,Quantity,Material / Specification,Make / Buy,Estimated Cost
+1,Base_Plate,"Main mounting base plate, 100x90x6 mm",1,Aluminum 6061-T6,Make,TBD
+2,Motor_Plate,"Adjustable motor plate, 70x70x5 mm",1,Aluminum 6061-T6,Make,TBD
+3,M5_Bolt_16mm,"Adjustment bolt, M5x16 mm",2,"Carbon steel, zinc-plated, standard M5 fastener",Buy,TBD
+4,NEMA17_Simplified,Simplified NEMA 17-style stepper motor representation,1,Commercial NEMA 17 stepper motor; simplified CAD representation,Buy,TBD
+5,M3_Bolt_10mm,"Motor mounting bolt, M3x10 mm",4,"Carbon steel, zinc-plated, standard M3 fastener",Buy,TBD
+6,M5_Washer,Flat washer for M5 adjustment bolt,2,"Zinc-plated steel, standard M5 flat washer",Buy,TBD
+7,M5_Hex_Nut,Hex nut for M5 adjustment bolt,2,"Zinc-plated steel, standard M5 hex nut",Buy,TBD
